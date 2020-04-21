@@ -2,7 +2,7 @@
 
 Setup instructions:
 ```
-git clone git@github.com:shudas/dotfiles.git ~/.dotfiles
+git clone git@github.com:shudas/dotfiles.git ~/.dotfiles --recursive
 
 cd ~/.dotfiles
 
