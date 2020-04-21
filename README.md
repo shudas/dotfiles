@@ -2,7 +2,7 @@
 
 Setup instructions:
 ```
-git clone git@github.com:nanddalal/dotfiles.git ~/.dotfiles
+git clone git@github.com:shudas/dotfiles.git ~/.dotfiles
 
 cd ~/.dotfiles
 
